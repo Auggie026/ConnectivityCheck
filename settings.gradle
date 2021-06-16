@@ -1,0 +1,2 @@
+rootProject.name = "ConnectivityCheck"
+include ':app'
